@@ -2,10 +2,8 @@
 env
 record.log
 __pycache__
+tests
+.dockerignore
+*.md
 .pytest_cache
-.idea/
 
-.terraform
- *.tfvars
- *.tfstate
- *.tfstate.*
